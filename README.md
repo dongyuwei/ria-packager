@@ -1,3 +1,5 @@
+推荐使用[tiny-asset-pipeline](https://github.com/dongyuwei/tiny-asset-pipeline) 代替ria-packager。tiny-asset-pipeline的逻辑更简单，代码经过多次重构也简化了许多。
+
 #ria-packager是什么？
 一个前端模块化开发集成环境（工具集）: 支持按小模块开发js，less(css)，mustache(html模板)。内建文件合并及压缩工具可用于构建、发布静态资源。
 ##############################################
